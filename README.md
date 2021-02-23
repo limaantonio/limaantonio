@@ -17,12 +17,13 @@
 </>
 
 <p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=belapferreira" alt="visitor badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=limaantonio" alt="visitor badge" />
 </p>
 
 ### Principais tecnologias e ferramentas
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
