@@ -20,7 +20,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=limaantonio" alt="visitor badge" />
 </p>
 
-### Principais ferramentas e tecnologias e ferramentas
+### Principais ferramentas e tecnologias
 
 <p align="center">
  <img src="https://img.shields.io/badge/Java-007396?style=social&logo=java&logoColor=007396" />&nbsp;&nbsp;&nbsp;
