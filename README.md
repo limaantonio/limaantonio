@@ -23,7 +23,7 @@
 ### Principais tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Java-007396?style=social&logo=java&logoColor=007396" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
